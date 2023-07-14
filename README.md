@@ -5,4 +5,5 @@
 分析：、参考文献：SwinIR: Image Restoration Using Swin Transformer（SwinIR）、本项目基于Swin IR模型进行训练。
 训练策略： 采用  128×128的图像块进行训练。
 模型结构如下所示：
+
 ![image](https://github.com/AliaXueting/Document_Image_Hypersegmentation/assets/96671351/70af5099-f434-4c0f-b758-dc1890a19a4d)
